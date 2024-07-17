@@ -1,0 +1,11 @@
+.header{
+background-image:url("../images/irctc-55.jpg");
+background-position:no-repeat;
+background-size: cover;
+text-align: TOP center;
+padding: 500px;
+height: 1250px;
+color: black;
+font-size: 55px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
